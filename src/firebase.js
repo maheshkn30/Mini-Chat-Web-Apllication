@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDCXOW5b1vV0ZPs6qYaj3mCMwWtleRZDgk",
-  authDomain: "rose-chat-27fe7.firebaseapp.com",
-  projectId: "rose-chat-27fe7",
-  storageBucket: "rose-chat-27fe7.appspot.com",
-  messagingSenderId: "728635747309",
-  appId: "1:728635747309:web:f4fecf88ff5149de7c95e4",
+  // apiKey: "",
+  // authDomain: "",
+  // projectId: "",
+  // storageBucket: "",
+  // messagingSenderId: "",
+  // appId: "1:728635747309:web:",
 };
 
 // Initialize Firebase
